@@ -26,7 +26,6 @@ Data file post transformation
 
 
 2.	Trips By Weekday
-![Trips_by_weekday](https://user-images.githubusercontent.com/113568268/220212287-e8379d36-6f9a-459c-8a88-028abf16d98a.png)
 
 
 3.	Peak Bike Check Out
