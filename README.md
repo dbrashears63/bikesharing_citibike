@@ -24,6 +24,7 @@ Data file post transformation
 1.	Bike Ride Length
 ![Bike_Ride_Length](https://user-images.githubusercontent.com/113568268/220212039-287f1d43-45f6-44d8-afe9-dea53062b4ad.png)
 
+
 2.	Trips By Weekday
 ![Trips_by_weekday](https://user-images.githubusercontent.com/113568268/220212287-e8379d36-6f9a-459c-8a88-028abf16d98a.png)
 
@@ -46,6 +47,7 @@ Data file post transformation
 
 7.	Trips By Gender (Weekday Per Hour)
 ![trips_by_gender_weekday_per_hour](https://user-images.githubusercontent.com/113568268/220212456-d8139a0f-797c-4eae-9ff2-becfb5a87c67.png)
+
 
 8.	User Trips By Gender Weekday
 ![users_trips_by_gender_by_weekday](https://user-images.githubusercontent.com/113568268/220212496-7f35b63f-dfaa-41e1-921d-e303bcc5337c.png)
