@@ -17,8 +17,14 @@ The 201908-citibike-tridata.csv file was downloaded and opened in Jupyter Notebo
 Fig #1
 Data file prior to transformation
 
+![pretransformation](https://user-images.githubusercontent.com/113568268/220214997-bfabde85-0d98-4516-bd16-d90d15da3906.png)
+
+
 Fig#2
 Data file post transformation
+
+![posttransformation](https://user-images.githubusercontent.com/113568268/220215035-1093f82c-de0b-4fdd-878c-515c78e943bd.png)
+
 
 ## Analysis Results
 1.	Bike Ride Length
