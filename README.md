@@ -42,7 +42,7 @@ Data file post transformation
 
 
 6.	Weekday Trips Per Hour
-![weekday_trips_per_hour](https://user-images.githubusercontent.com/113568268/220212404-88e0f7d9-757a-47c1-b650-2d47e39ed497.png)
+
 
 
 7.	Trips By Gender (Weekday Per Hour)
