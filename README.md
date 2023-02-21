@@ -2,6 +2,8 @@
 ## Purpose
 The purpose of this report is to analyze NYC bike share data in August. The analysis uses Tablueau to visualize time, gender, location, and count of rides data. The full Tableau story can be found at the link below.
 
+https://public.tableau.com/app/profile/deborah1504/viz/CititBikeStory/BikeRideLength?publish=yes
+
 ## Overview of Project
 Des Moines requested data for a business proposal to determine if it is a good investment. August 2019 Citibike data from NYC was used to create graphs and a storyboard to display the information gathered. It will display different graphs that shows peak ridership and length of trips and other elements of the data which will determine if Citibike would be a good investment.
 
